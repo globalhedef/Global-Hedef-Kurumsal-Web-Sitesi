@@ -59,10 +59,10 @@ export default function Home() {
     "telephone": "+905303771054",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Semerciler Mah. Parlak Sok. No: 37/C",
-      "addressLocality": "Adapazarı",
+      "streetAddress": "İstiklal Mah. Muhsin Yazıcıoğlu Bulvarı N:51/10",
+      "addressLocality": "Serdivan",
       "addressRegion": "Sakarya",
-      "postalCode": "54100",
+      "postalCode": "54050",
       "addressCountry": "TR"
     },
     "geo": {
