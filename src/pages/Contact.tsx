@@ -34,7 +34,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="font-bold text-brand-navy mb-1">Adres</p>
-                  <p className="text-sm text-slate-500">İstiklal Mah. Muhsin Yazıcıoğlu Bulvarı N:51/10 Serdivan / SAKARYA</p>
+                  <p className="text-sm text-slate-500">İstiklal Mah. Muhsin Yazıcıoğlu Bulvarı N:51/16 Serdivan / SAKARYA</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">

@@ -44,7 +44,7 @@ export default function Footer() {
           <ul className="space-y-4 text-sm">
             <li className="flex items-start gap-3">
               <MapPin size={18} className="text-brand-orange shrink-0" />
-              <span>İstiklal Mah. Muhsin Yazıcıoğlu Bulvarı N:51/10 Serdivan / SAKARYA</span>
+              <span>İstiklal Mah. Muhsin Yazıcıoğlu Bulvarı N:51/16 Serdivan / SAKARYA</span>
             </li>
             <li className="flex items-center gap-3">
               <Phone size={18} className="text-brand-orange shrink-0" />

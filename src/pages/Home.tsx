@@ -59,7 +59,7 @@ export default function Home() {
     "telephone": "+905303771054",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "İstiklal Mah. Muhsin Yazıcıoğlu Bulvarı N:51/10",
+      "streetAddress": "İstiklal Mah. Muhsin Yazıcıoğlu Bulvarı N:51/16",
       "addressLocality": "Serdivan",
       "addressRegion": "Sakarya",
       "postalCode": "54050",
